@@ -1,0 +1,19 @@
+{
+  "name": "paintface07-screeps-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/lodash": "^4.14.104",
+    "@types/node": "^9.4.6",
+    "@types/screeps": "^2.2.0",
+    "lodash": "^4.17.5",
+    "typescript": "^2.7.2"
+  }
+}
